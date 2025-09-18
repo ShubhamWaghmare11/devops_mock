@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  # TODO: Define backend service
+  # TODO: Define frontend service
+  # TODO: Add ports and dependencies
